@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+
+.crypto-currencies-list-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.crypto-currencies-list-heading {
+  color: #00e7ff;
+  font-family: 'Roboto';
+  font-size: 40px;
+  text-align: center;
+}
+
+.crypto-currencies-list-img {
+  width: 80%;
+}

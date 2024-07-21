@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.crypto-tracker-con {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
